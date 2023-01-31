@@ -19,7 +19,7 @@ const commentData = [
   {
     user_id: 5,
     post_id: 5,
-    comment_text: "We just reached a million subscribers! Fantastic!",
+    comment_text: "We just reached a million users!",
   },
   {
     user_id: 2,
